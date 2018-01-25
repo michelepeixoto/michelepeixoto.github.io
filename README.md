@@ -1,4 +1,4 @@
-###READ ME GUIDELINES
+<h3>READ ME GUIDELINES</h3>
 1. Project Name
 2. Description
 3. Table of Contents
