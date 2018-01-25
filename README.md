@@ -1,9 +1,11 @@
 <h3>READ ME GUIDELINES</h3>
-1. Project Name
-2. Description
-3. Table of Contents
-4. Installation
-5. Usage
-6. Contributing
-7. Credits
-8. License
+<ol>
+  <li> Project Name</li>
+  <li> Description</li>
+  <li> Table of Contents</li>
+  <li> Installation</li>
+  <li> Usage</li>
+  <li> Contributing</li>
+  <li> Credits</li>
+  <li> License</li>
+</ol>
